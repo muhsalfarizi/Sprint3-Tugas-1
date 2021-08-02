@@ -1,0 +1,4 @@
+var func1 = () => {
+    return 'pondok Programmer'
+}
+console.log(func1());
